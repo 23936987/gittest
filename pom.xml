@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.hj</groupId>
     <artifactId>gittest</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>gittest</name>
     <description>Demo project for Spring Boot</description>
 
