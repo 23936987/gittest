@@ -10,7 +10,7 @@ public class HomeController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "hello";
+        return "hello---11";
     }
 
 
@@ -19,4 +19,5 @@ public class HomeController {
     public String sayHello(String name){
         return "sayHello : " + name;
     }
+
 }
