@@ -12,4 +12,11 @@ public class HomeController {
     public String hello(){
         return "hello";
     }
+
+
+
+    @RequestMapping("/sayHello")
+    public String sayHello(String name){
+        return "sayHello : " + name;
+    }
 }
